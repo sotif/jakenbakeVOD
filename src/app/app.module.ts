@@ -32,7 +32,6 @@ import { TimePipe } from './time.pipe';
 import { SidenavListComponent } from './sidenav-list/sidenav-list.component';
 import { VideosComponent } from './videos/videos.component';
 import { SafePipe } from './safe.pipe';
-import { DeletedVodsComponent } from './deleted-vods/deleted-vods.component';
 import { GameComponent } from './game/game.component';
 
 
@@ -46,7 +45,6 @@ import { GameComponent } from './game/game.component';
     SidenavListComponent,
     VideosComponent,
     SafePipe,
-    DeletedVodsComponent,
     GameComponent
   ],
   imports: [

@@ -1,7 +1,6 @@
 import { NgModule } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { ChannelsComponent } from './channels/channels.component';
-import { DeletedVodsComponent } from './deleted-vods/deleted-vods.component';
 import { GameComponent } from './game/game.component';
 import { HomeComponent } from './home/home.component';
 import { VideosComponent } from './videos/videos.component';
@@ -12,7 +11,6 @@ const routes: Routes = [
   { path: 'channel/:name', component: ChannelsComponent },
   { path: 'video', redirectTo: ''},
   { path: 'video/:id', component: VideosComponent },
-  { path: 'deleted-vods', component: DeletedVodsComponent },
   { path: 'channel/:name/game/:game', component: GameComponent }
 ];
 
