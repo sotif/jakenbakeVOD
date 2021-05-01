@@ -27,7 +27,6 @@ import { MatFormFieldModule } from "@angular/material/form-field";
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatTabsModule } from '@angular/material/tabs';
 import { HomeComponent } from './home/home.component';
-import { AboutusComponent } from './aboutus/aboutus.component';
 import { ChannelsComponent } from './channels/channels.component';
 import { TimePipe } from './time.pipe';
 import { SidenavListComponent } from './sidenav-list/sidenav-list.component';
@@ -42,7 +41,6 @@ import { GameComponent } from './game/game.component';
     AppComponent,
     NavbarComponent,
     HomeComponent,
-    AboutusComponent,
     ChannelsComponent,
     TimePipe,
     SidenavListComponent,
