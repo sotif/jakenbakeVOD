@@ -28,7 +28,6 @@ import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { MatTabsModule } from '@angular/material/tabs';
 import { HomeComponent } from './home/home.component';
 import { AboutusComponent } from './aboutus/aboutus.component';
-import { ContactComponent } from './contact/contact.component';
 import { ChannelsComponent } from './channels/channels.component';
 import { TimePipe } from './time.pipe';
 import { SidenavListComponent } from './sidenav-list/sidenav-list.component';
@@ -44,7 +43,6 @@ import { GameComponent } from './game/game.component';
     NavbarComponent,
     HomeComponent,
     AboutusComponent,
-    ContactComponent,
     ChannelsComponent,
     TimePipe,
     SidenavListComponent,
