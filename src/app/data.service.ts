@@ -7,7 +7,7 @@ import { Observable } from 'rxjs/internal/Observable';
   providedIn: 'root'
 })
 export class DataService {
-  private REST_API_SERVER = "../assets/";
+  private REST_API_SERVER = "./assets/";
   data$: Observable<Object>;
 
   constructor(private httpClient: HttpClient) { 
