@@ -2,13 +2,32 @@ name: Update
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '0 0 * * *'
+    - cron:  '0 * * * *'
+
 jobs:
   update:
-    name: update
     runs-on: ubuntu-latest
+
     steps:
-    - uses: actions/checkout@v2
     - name: checkout
+      uses: actions/checkout@v2
+      with:
+        persist-credentials: false
+    - name: 'setup python'
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    - name: Install dependencies
       run: |
-        echo 'testing'
+        python -m pip install --upgrade pip
+        if [ -f utils/requirements.txt ]; then pip install -r utils/requirements.txt; fi
+    - name: Run update
+      run: |
+        echo '${{ secrets.CLIENT_SECRET_JSON }}' > utils/client_secret.json
+        echo '${{ secrets.OAUTH2 }}' > utils/update_videos.py-oauth2.json
+        cd utils && python update_videos.py && rm update_videos.py-oauth2.json && rm client_secret.json
+    - name: Commit & Push changes
+      uses: actions-js/push@master
+      with:
+        github_token: ${{ secrets.token }}
+
