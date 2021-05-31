@@ -30,3 +30,11 @@ a {
     font-size: large;
     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
+
+.mat-card {
+    transition: transform 0.5s;
+}
+
+.mat-card:hover {
+    transform: scale(1.1);
+}
