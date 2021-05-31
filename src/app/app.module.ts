@@ -32,7 +32,6 @@ import { TimePipe } from './time.pipe';
 import { SidenavListComponent } from './sidenav-list/sidenav-list.component';
 import { VideosComponent } from './videos/videos.component';
 import { SafePipe } from './safe.pipe';
-import { GameComponent } from './game/game.component';
 
 
 @NgModule({
@@ -45,7 +44,6 @@ import { GameComponent } from './game/game.component';
     SidenavListComponent,
     VideosComponent,
     SafePipe,
-    GameComponent
   ],
   imports: [
     BrowserModule,
