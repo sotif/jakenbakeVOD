@@ -143,6 +143,22 @@ def list_my_uploaded_videos(uploads_playlist_id):
     json.dump(vid_array, f, ensure_ascii=False, indent=4)
 
 
+
+  with open("../src/assets/channels.json", "r", encoding="utf-8") as f:
+    data = f.read()
+
+  d = json.loads(data)
+  d[0]["video_count"] = len(vid_array)
+
+  with open("../src/assets/channels.json", "w", encoding="utf-8") as f:
+    json.dump(d, f, ensure_ascii=False, indent=4)
+    #f.write(json.dumps(d))
+
+  #with open("../src/assets/channels.json", "w", encoding="utf-8") as f:
+    #json.dump(vid_array, f, ensure_ascii=False, indent=4)
+
+
+
 if __name__ == '__main__':
   args = argparser.parse_args()
   youtube = get_authenticated_service(args)
