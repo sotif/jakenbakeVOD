@@ -9,7 +9,7 @@
         <mat-spinner class="loading-indicator" *ngIf="videos.length === 0"></mat-spinner>
 
         <mat-grid-list *ngIf="videos.length > 0" [cols]="breakpoint" (window:resize)="onResize($event)" rowHeight="280px">
-            <mat-grid-tile *ngFor="let video of videos">
+            <mat-grid-tile *ngFor="let video of sortBy('created')">
                 <a routerLink="/video/{{ video.idString }}">
                     <mat-card style="text-align: center; width: 320px;">
                         <div class="container">

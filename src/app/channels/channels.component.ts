@@ -61,5 +61,9 @@ export class ChannelsComponent implements OnInit {
       });
     }
   }
+
+  sortBy(prop: string) {
+      return this.videos.sort((a, b) => a[prop] < b[prop] ? 1 : a[prop] === b[prop] ? 0 : -1);
+  }
 }
 
