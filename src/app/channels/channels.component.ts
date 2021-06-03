@@ -20,6 +20,7 @@ export class ChannelsComponent implements OnInit {
 
   ngOnInit(): void {
     this.channel_name = this.route.snapshot.params['name'];
+    this.channel_name = 'jakenbakeLIVE';
 
     this.dataService.getChannels().subscribe((data: any[]) => {
       data.forEach(currentChannel => {

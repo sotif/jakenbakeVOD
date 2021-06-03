@@ -5,9 +5,9 @@ import { HomeComponent } from './home/home.component';
 import { VideosComponent } from './videos/videos.component';
 
 const routes: Routes = [
-  { path: '', component: HomeComponent },
-  { path: 'channel', redirectTo: ''},
-  { path: 'channel/:name', component: ChannelsComponent },
+  //{ path: '', component: HomeComponent },
+  //{ path: 'channel', redirectTo: ''},
+  { path: '', component: ChannelsComponent },
   { path: 'video', redirectTo: ''},
   { path: 'video/:id', component: VideosComponent }
 ];
