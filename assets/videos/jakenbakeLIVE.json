@@ -1,5 +1,25 @@
 [
     {
+        "idString": "165700413",
+        "id": 165700413,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1502306570,
+        "length": 10728,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - I should be sleeping - !friends jnbHey",
+        "videoFile": null,
+        "vodId": 165700413,
+        "chatYoutubeId": "_lZMktJ3naA",
+        "videoYoutubeId": "Xr8K9Cvr-Jo"
+    },
+    {
         "idString": "165327784",
         "id": 165327784,
         "channelId": 11249217,
@@ -18,25 +38,6 @@
         "vodId": 165327784,
         "videoYoutubeId": "GjMNt2IlmOQ",
         "chatYoutubeId": "jVoxQXJdD3s"
-    },
-    {
-        "idString": "165700413",
-        "id": 165700413,
-        "channelId": 11249217,
-        "channelName": "jakenbakeLIVE",
-        "chapters": [],
-        "chatEmbed": 0,
-        "chatFile": null,
-        "chatVideoFile": null,
-        "created": 1502306570,
-        "length": 10728,
-        "metadataFile": null,
-        "muteList": "",
-        "thumbnailUrl": "",
-        "title": "Tokyo, Japan - I should be sleeping - !friends jnbHey",
-        "videoFile": null,
-        "vodId": 165700413,
-        "videoYoutubeId": "Xr8K9Cvr-Jo"
     },
     {
         "idString": "165593275",
