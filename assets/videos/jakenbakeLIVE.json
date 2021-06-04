@@ -1,5 +1,25 @@
 [
     {
+        "idString": "168067940",
+        "id": 168067940,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503104654,
+        "length": 5058,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - Hayama Beach Stream w/ !Kana  - !friends !sub",
+        "videoFile": null,
+        "vodId": 168067940,
+        "chatYoutubeId": "uELLQexlOg8",
+        "videoYoutubeId": "yBMHm1DtEUY"
+    },
+    {
         "idString": "167865489",
         "id": 167865489,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Tokyo, Japan - Shibuya - Okubo (Korea Town) w/ !Emi - !friends ! sub",
         "videoFile": null,
         "vodId": 167865489,
+        "chatYoutubeId": "oY3CP7D0alY",
         "videoYoutubeId": "-1GLuQjkGj0"
     },
     {
