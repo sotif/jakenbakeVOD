@@ -1,5 +1,24 @@
 [
     {
+        "idString": "166557716",
+        "id": 166557716,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1502589713,
+        "length": 28465,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - Comiket (Comic Con) w/ Special Guest? - !friends jnbHey",
+        "videoFile": null,
+        "vodId": 166557716,
+        "videoYoutubeId": "ytWpCtMeujU"
+    },
+    {
         "idString": "166383848",
         "id": 166383848,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, Japan - Sumida Lantern Festival - Tokyo Drift Car Meet - !friends jnbHey",
         "videoFile": null,
         "vodId": 166383848,
+        "chatYoutubeId": "kfuEcUxDOEc",
         "videoYoutubeId": "Dlx-TIJ3zYA"
     },
     {
