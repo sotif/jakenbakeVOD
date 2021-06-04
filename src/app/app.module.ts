@@ -32,6 +32,7 @@ import { TimePipe } from './time.pipe';
 import { SidenavListComponent } from './sidenav-list/sidenav-list.component';
 import { VideosComponent } from './videos/videos.component';
 import { SafePipe } from './safe.pipe';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 
 @NgModule({
@@ -68,7 +69,8 @@ import { SafePipe } from './safe.pipe';
     MatFormFieldModule,
     DataTablesModule,
     MatSnackBarModule,
-    MatTabsModule
+    MatTabsModule,
+    FontAwesomeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
