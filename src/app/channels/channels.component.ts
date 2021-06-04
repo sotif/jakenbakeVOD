@@ -41,7 +41,7 @@ export class ChannelsComponent implements OnInit {
   onPageChange(event) {
     this.videos = [];
     this.dataService.getVideo(this.channel_name, event.pageSize, event.pageIndex * event.pageSize).subscribe((data: any[]) => {
-      this.videos = data;
+      this.videos = data.sort((a, b) => a['created'] < b['created'] ? 1 : a['created'] === b['created'] ? 0 : -1).slice(event.pageIndex * event.pageSize, (event.pageIndex + 1) * event.pageSize);
     });
   }
 
