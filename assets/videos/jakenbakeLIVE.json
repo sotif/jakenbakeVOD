@@ -1,5 +1,44 @@
 [
     {
+        "idString": "168688410",
+        "id": 168688410,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503326009,
+        "length": 11824,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - Chill Stream? Walking Around - I am Sick - !friends !sub",
+        "videoFile": null,
+        "vodId": 168688410,
+        "videoYoutubeId": "MmVZTwY4kZY"
+    },
+    {
+        "idString": "168481937",
+        "id": 168481937,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503249004,
+        "length": 14176,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - Making new friends - !friends !sub",
+        "videoFile": null,
+        "vodId": 168481937,
+        "chatYoutubeId": "VuxsIdvoK4U",
+        "videoYoutubeId": "JYkWc2xpaAk"
+    },
+    {
         "idString": "168422782",
         "id": 168422782,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, Japan - MASK ON - Sick - Walking around at night to find some food (Chill stream?) - !friends !sub",
         "videoFile": null,
         "vodId": 168422782,
+        "chatYoutubeId": "XwW-rn2ixog",
         "videoYoutubeId": "KWLwfbVo6qs"
     },
     {
