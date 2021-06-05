@@ -1,5 +1,25 @@
 [
     {
+        "idString": "169902618",
+        "id": 169902618,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503739163,
+        "length": 3746,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - Some Crazy Summer Festival w/ !Yuri and !Friends - !sub !discord",
+        "videoFile": null,
+        "vodId": 169902618,
+        "chatYoutubeId": "41YfuV94Y4w",
+        "videoYoutubeId": "EPDUE1jVbMk"
+    },
+    {
         "idString": "169684524",
         "id": 169684524,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Welcome to Tokyo - Friday Night w/ !Miyuki and !Friends - !sub (Drinking fuhhhhhh)",
         "videoFile": null,
         "vodId": 169684524,
+        "chatYoutubeId": "DksiYaA20S4",
         "videoYoutubeId": "5JSVPAca1C0"
     },
     {
