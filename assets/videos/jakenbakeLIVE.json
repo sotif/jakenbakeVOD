@@ -1,5 +1,24 @@
 [
     {
+        "idString": "169684524",
+        "id": 169684524,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503672387,
+        "length": 12301,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - Friday Night w/ !Miyuki and !Friends - !sub (Drinking fuhhhhhh)",
+        "videoFile": null,
+        "vodId": 169684524,
+        "videoYoutubeId": "5JSVPAca1C0"
+    },
+    {
         "idString": "169616708",
         "id": 169616708,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Welcome to Tokyo - NEXT STREAM 8PM PST - !friends !sub - UNLEASH THE WEEBS",
         "videoFile": null,
         "vodId": 169616708,
+        "chatYoutubeId": "jRnaoQRxDHo",
         "videoYoutubeId": "kRP2Wz1eabE"
     },
     {
