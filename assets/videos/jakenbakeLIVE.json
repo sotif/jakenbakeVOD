@@ -1,5 +1,24 @@
 [
     {
+        "idString": "169616708",
+        "id": 169616708,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503638058,
+        "length": 11129,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - NEXT STREAM 8PM PST - !friends !sub - UNLEASH THE WEEBS",
+        "videoFile": null,
+        "vodId": 169616708,
+        "videoYoutubeId": "kRP2Wz1eabE"
+    },
+    {
         "idString": "169425269",
         "id": 169425269,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Welcome to Tokyo - Mogra Anime Weeb Club w/ JP - !friends !sub - UNLEASH THE WEEBS",
         "videoFile": null,
         "vodId": 169425269,
+        "chatYoutubeId": "hyrXhNUKp0Q",
         "videoYoutubeId": "MaDkyCyjs_w"
     },
     {
