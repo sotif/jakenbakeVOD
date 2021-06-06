@@ -1,5 +1,25 @@
 [
     {
+        "idString": "170427925",
+        "id": 170427925,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503923535,
+        "length": 7376,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - Lonely Pizza Dinner with Chat - !sub !discord",
+        "videoFile": null,
+        "vodId": 170427925,
+        "chatYoutubeId": "XnfOh-qKJ9Y",
+        "videoYoutubeId": "0_8c6WbqtbI"
+    },
+    {
         "idString": "170410445",
         "id": 170410445,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Welcome to Tokyo - Exploring and Dinner w/ !Yuki and !Yutaka - !sub !discord ",
         "videoFile": null,
         "vodId": 170410445,
+        "chatYoutubeId": "ZanBqjVIvjE",
         "videoYoutubeId": "lXIAiWF-eQ4"
     },
     {
