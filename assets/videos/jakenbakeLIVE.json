@@ -1,5 +1,24 @@
 [
     {
+        "idString": "170137904",
+        "id": 170137904,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1503813637,
+        "length": 19395,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - Baseball Game w/ !Yuki and !Friends - !sub !discord (Tokyo Giants vs. Osaka Tigers) ",
+        "videoFile": null,
+        "vodId": 170137904,
+        "videoYoutubeId": "anEe2cuStBA"
+    },
+    {
         "idString": "170131291",
         "id": 170131291,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Welcome to Tokyo - Baseball Game w/ !Yuki and !Friends - !sub !discord (Tokyo Giants vs. Osaka Tigers) ",
         "videoFile": null,
         "vodId": 170131291,
+        "chatYoutubeId": "Jxx5fxvAaBc",
         "videoYoutubeId": "F6Zn1TierNM"
     },
     {
