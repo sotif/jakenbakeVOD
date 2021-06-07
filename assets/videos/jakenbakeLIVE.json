@@ -1,5 +1,24 @@
 [
     {
+        "idString": "171110545",
+        "id": 171110545,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1504155991,
+        "length": 4978,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - Sushi Lunch w/ !Kana / Exploring Her Hometown - !sub !discord ",
+        "videoFile": null,
+        "vodId": 171110545,
+        "videoYoutubeId": "kGCWJ-8WR2g"
+    },
+    {
         "idString": "170906183",
         "id": 170906183,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Welcome to Tokyo - Chinatown / Yokohama (LETS SPEAK CHINESE!) - !sub !discord ",
         "videoFile": null,
         "vodId": 170906183,
+        "chatYoutubeId": "AX6TXmu1FXg",
         "videoYoutubeId": "hguUUVccuZg"
     },
     {
