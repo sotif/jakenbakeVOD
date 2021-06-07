@@ -1,5 +1,24 @@
 [
     {
+        "idString": "171957509",
+        "id": 171957509,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1504447915,
+        "length": 16102,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - \"Chill\" Night Stream in Ikebukuro (No Plan) - !sub !discord",
+        "videoFile": null,
+        "vodId": 171957509,
+        "videoYoutubeId": "C0C-_eiCmh8"
+    },
+    {
         "idString": "171638579",
         "id": 171638579,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Welcome to Tokyo - I Found a Bunch of Cosplayers (Short Stream) - !sub !discord",
         "videoFile": null,
         "vodId": 171638579,
+        "chatYoutubeId": "D0XcQ_TtUY4",
         "videoYoutubeId": "NqjIc7WpFPs"
     },
     {
