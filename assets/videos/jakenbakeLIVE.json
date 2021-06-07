@@ -1,5 +1,24 @@
 [
     {
+        "idString": "171359836",
+        "id": 171359836,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1504240606,
+        "length": 12965,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Welcome to Tokyo - Taco Bell - Yoyogi Jazz Festival - !sub !discord",
+        "videoFile": null,
+        "vodId": 171359836,
+        "videoYoutubeId": "EwQZWrNtrTA"
+    },
+    {
         "idString": "171128980",
         "id": 171128980,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Welcome to Tokyo - Cup Noodles Museum w/ !kana - !sub !discord",
         "videoFile": null,
         "vodId": 171128980,
+        "chatYoutubeId": "702nbrH85-U",
         "videoYoutubeId": "WjOuWXRfnKY"
     },
     {
