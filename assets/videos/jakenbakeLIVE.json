@@ -1,5 +1,25 @@
 [
     {
+        "idString": "172927168",
+        "id": 172927168,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1504771570,
+        "length": 1943,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - 50% Off New Subs! 500 Subs Inc? Kappa - Shopping For New Pants, Mine Ripped - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 172927168,
+        "chatYoutubeId": "E3W0Dfitprc",
+        "videoYoutubeId": "qdLYgpBiEWM"
+    },
+    {
         "idString": "172915000",
         "id": 172915000,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Tokyo, Japan - 50% Off Subs! 500 Subs Inc? Kappa - Shopping For New Pants, Mine Ripped - !friends !sub !discord",
         "videoFile": null,
         "vodId": 172915000,
+        "chatYoutubeId": "7_SOD3nfI-s",
         "videoYoutubeId": "A8thmuBTIz0"
     },
     {
