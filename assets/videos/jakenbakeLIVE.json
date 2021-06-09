@@ -1,5 +1,44 @@
 [
     {
+        "idString": "173413474",
+        "id": 173413474,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1504934212,
+        "length": 2852,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - 50% Off Subs! 500 Subs Inc? Kappa - Saturday Cruising w/ !Kana - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 173413474,
+        "videoYoutubeId": "Mi5xIadvJU4"
+    },
+    {
+        "idString": "173405514",
+        "id": 173405514,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1504931084,
+        "length": 2787,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, Japan - 50% Off Subs! 500 Subs Inc? Kappa - Saturday Cruising w/ !Kana - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 173405514,
+        "chatYoutubeId": "dKEsUyuOP_I",
+        "videoYoutubeId": "Py92IJ_dTfA"
+    },
+    {
         "idString": "173192234",
         "id": 173192234,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, Japan - 50% Off Subs! 500 Subs Inc? Kappa - Night Stream w/ !Miyuki - !friends !sub !discord",
         "videoFile": null,
         "vodId": 173192234,
+        "chatYoutubeId": "f2R5rru9zYQ",
         "videoYoutubeId": "50atijLc9d4"
     },
     {
