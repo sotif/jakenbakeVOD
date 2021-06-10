@@ -1,5 +1,24 @@
 [
     {
+        "idString": "174176815",
+        "id": 174176815,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505202259,
+        "length": 16942,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "[50% Off Subs] Tokyo, Japan - Night Out w/ !Kana - Road to 1000 Subs! - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 174176815,
+        "videoYoutubeId": "Jgmvin_CHQ0"
+    },
+    {
         "idString": "173995177",
         "id": 173995177,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, Japan - Kawasaki Warehouse - Thanks for 500 subs! - !friends !sub !discord",
         "videoFile": null,
         "vodId": 173995177,
+        "chatYoutubeId": "JgMq1_mzTOg",
         "videoYoutubeId": "q9d0JdhNIZo"
     },
     {
