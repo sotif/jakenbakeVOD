@@ -1,5 +1,24 @@
 [
     {
+        "idString": "174891249",
+        "id": 174891249,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505467272,
+        "length": 3601,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "[50% Off !Sub] Tokyo, Japan - Friday w/ !Chego - Road to 1000 Subs - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 174891249,
+        "videoYoutubeId": "BKZOuZf5v7U"
+    },
+    {
         "idString": "174885001",
         "id": 174885001,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "[50% Off !Sub] Tokyo, Japan - Friday w/ !Chego - Road to 1000 Subs - !friends !sub !discord",
         "videoFile": null,
         "vodId": 174885001,
+        "chatYoutubeId": "B0APe0SxGes",
         "videoYoutubeId": "vZTmzC4XEhs"
     },
     {
