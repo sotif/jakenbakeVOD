@@ -1,5 +1,44 @@
 [
     {
+        "idString": "175897392",
+        "id": 175897392,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505812360,
+        "length": 3405,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo - Dinner and Dumb Stuff w/ !Yuri and Mao - [50% Off !Sub] - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 175897392,
+        "videoYoutubeId": "7aKz8Q4wBf8"
+    },
+    {
+        "idString": "175746649",
+        "id": 175746649,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505758454,
+        "length": 701,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo Redlight District Bruh - [50% Off !Sub] - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 175746649,
+        "chatYoutubeId": "vc-T8pYiq9I",
+        "videoYoutubeId": "HED5oQCAd38"
+    },
+    {
         "idString": "175737367",
         "id": 175737367,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo Redlight District Bruh - [50% Off !Sub] - !friends !sub !discord",
         "videoFile": null,
         "vodId": 175737367,
+        "chatYoutubeId": "vZPCSvyCS8k",
         "videoYoutubeId": "L9BgVkaG950"
     },
     {
