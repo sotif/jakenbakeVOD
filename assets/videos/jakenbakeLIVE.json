@@ -1,5 +1,44 @@
 [
     {
+        "idString": "175737367",
+        "id": 175737367,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505756364,
+        "length": 1885,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo Redlight District Bruh - [50% Off !Sub] - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 175737367,
+        "videoYoutubeId": "L9BgVkaG950"
+    },
+    {
+        "idString": "175730137",
+        "id": 175730137,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505754505,
+        "length": 1662,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo Redlight District Bruh - [50% Off !Sub] - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 175730137,
+        "chatYoutubeId": "Urjm0i88JyM",
+        "videoYoutubeId": "y42cF2tvNQ0"
+    },
+    {
         "idString": "175709581",
         "id": 175709581,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo Ultra Music Festival - [50% Off !Sub] - !friends !sub !discord",
         "videoFile": null,
         "vodId": 175709581,
+        "chatYoutubeId": "pTMPO_Sq2Vo",
         "videoYoutubeId": "zOTo4v9XEtY"
     },
     {
