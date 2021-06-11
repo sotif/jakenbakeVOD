@@ -1,5 +1,44 @@
 [
     {
+        "idString": "175152673",
+        "id": 175152673,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505556116,
+        "length": 2184,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "[50% Off !Sub] Tokyo, Japan - Saturday Mexican Fiesta w/ !Kana - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 175152673,
+        "videoYoutubeId": "aGvSXidQ9R4"
+    },
+    {
+        "idString": "175147688",
+        "id": 175147688,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505553561,
+        "length": 2396,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "[50% Off !Sub] Tokyo, Japan - Saturday Mexican Fiesta w/ !Kana - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 175147688,
+        "chatYoutubeId": "ODrqpRm-q2s",
+        "videoYoutubeId": "_xds_z57hjw"
+    },
+    {
         "idString": "175140809",
         "id": 175140809,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "[50% Off !Sub] Tokyo, Japan - Saturday Mexican Fiesta w/ !Kana - !friends !sub !discord",
         "videoFile": null,
         "vodId": 175140809,
+        "chatYoutubeId": "Ky1u99_P1QA",
         "videoYoutubeId": "tmJFKkJnMpA"
     },
     {
