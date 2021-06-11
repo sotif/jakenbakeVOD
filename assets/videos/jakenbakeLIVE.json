@@ -1,5 +1,24 @@
 [
     {
+        "idString": "175432221",
+        "id": 175432221,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505647280,
+        "length": 16781,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "[50% Off !Sub] Tokyo, Japan - Dinner and Errands (Ultra Music Festival Tmr?) - !friends !sub !discord",
+        "videoFile": null,
+        "vodId": 175432221,
+        "videoYoutubeId": "NF3ZNm-qo2w"
+    },
+    {
         "idString": "175426663",
         "id": 175426663,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "[50% Off !Sub] Tokyo, Japan - Dinner and Errands (Ultra Music Festival Tmr?) - !friends !sub !discord",
         "videoFile": null,
         "vodId": 175426663,
+        "chatYoutubeId": "eYK8iDR7urk",
         "videoYoutubeId": "2QI1CE9w0Bw"
     },
     {
