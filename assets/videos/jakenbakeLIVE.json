@@ -1,5 +1,24 @@
 [
     {
+        "idString": "177379898",
+        "id": 177379898,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1506337011,
+        "length": 17258,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Shibuya Shenanigans jnbKiss - [50% Off !Sub] - !discord - !friends",
+        "videoFile": null,
+        "vodId": 177379898,
+        "videoYoutubeId": "BjyJGgKSOjk"
+    },
+    {
         "idString": "176817832",
         "id": 176817832,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "INTENSE RAP STREAM at Tokyo Game Show - Day 2 - [50% Off !Sub] - !discord - !friends",
         "videoFile": null,
         "vodId": 176817832,
+        "chatYoutubeId": "tZE17WuXYrg",
         "videoYoutubeId": "GMqpd_KMQ4g"
     },
     {
