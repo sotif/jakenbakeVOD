@@ -1,5 +1,24 @@
 [
     {
+        "idString": "176350769",
+        "id": 176350769,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1505975029,
+        "length": 4567,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo - Tokyo Game Show Day 1 - Business Day & Booth Babes [50% Off !Sub] - !discord - 720p HQ Stream DAMNNNNN Scuff Free",
+        "videoFile": null,
+        "vodId": 176350769,
+        "videoYoutubeId": "npFtFY2ZvGE"
+    },
+    {
         "idString": "176342058",
         "id": 176342058,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo - Tokyo Game Show Day 1 - Business Day & Booth Babes [50% Off !Sub] - !discord",
         "videoFile": null,
         "vodId": 176342058,
+        "chatYoutubeId": "0J4KAhFGIJM",
         "videoYoutubeId": "MU-3oZ0FMGQ"
     },
     {
