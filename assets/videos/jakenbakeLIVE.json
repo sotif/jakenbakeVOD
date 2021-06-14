@@ -1,5 +1,44 @@
 [
     {
+        "idString": "178325885",
+        "id": 178325885,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1506682310,
+        "length": 16245,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Drinks In Shibuya w/ @lost_gaijin - [50% off !Sub] - !friends !discord",
+        "videoFile": null,
+        "vodId": 178325885,
+        "videoYoutubeId": "3JfWFC4DVgc"
+    },
+    {
+        "idString": "178321179",
+        "id": 178321179,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1506679316,
+        "length": 2923,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Drinks In Shibuya w/ @lost_gaijin - [50% off !Sub] - !friends !discord",
+        "videoFile": null,
+        "vodId": 178321179,
+        "chatYoutubeId": "EVKM7Mp0tJc",
+        "videoYoutubeId": "pl-x_2Y8jm0"
+    },
+    {
         "idString": "178285642",
         "id": 178285642,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, JPN - Blue Skies, Hungry Guys, and Ballsack Eyes jnbTeeth - [50% off !Sub] - !friends !discord",
         "videoFile": null,
         "vodId": 178285642,
+        "chatYoutubeId": "sDefm-ogKhM",
         "videoYoutubeId": "vz9mmestnzs"
     },
     {
