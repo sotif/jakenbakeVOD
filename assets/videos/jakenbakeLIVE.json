@@ -1,5 +1,25 @@
 [
     {
+        "idString": "179370832",
+        "id": 179370832,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1507030950,
+        "length": 1051,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN [720p] - Dinner in Azabu-Jūban w/ Kingsley & !will - jnbOnion - [50% off !Sub] - !friends !discord",
+        "videoFile": null,
+        "vodId": 179370832,
+        "chatYoutubeId": "dpSzgiUu31M",
+        "videoYoutubeId": "kvlmOwR90V4"
+    },
+    {
         "idString": "179355841",
         "id": 179355841,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Tokyo, JPN - Shopping in Shinjuku w/ Kingsley - jnbOnion - [50% off !Sub] - !friends !discord",
         "videoFile": null,
         "vodId": 179355841,
+        "chatYoutubeId": "n4W0VK-q77o",
         "videoYoutubeId": "OUqu2r5o6BE"
     },
     {
