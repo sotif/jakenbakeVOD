@@ -1,5 +1,24 @@
 [
     {
+        "idString": "179858311",
+        "id": 179858311,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1507201183,
+        "length": 12463,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Thirsty Thursday - [50% off !Sub] - !friends !discord !subgoal",
+        "videoFile": null,
+        "vodId": 179858311,
+        "videoYoutubeId": "nX2cZJ1U0IU"
+    },
+    {
         "idString": "179568945",
         "id": 179568945,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - Shibuya Sushi w/ !Chego - jnbOnion - [50% off !Sub] - !friends !discord",
         "videoFile": null,
         "vodId": 179568945,
+        "chatYoutubeId": "ciXI5J2GKS8",
         "videoYoutubeId": "_pe0mxsz0-I"
     },
     {
