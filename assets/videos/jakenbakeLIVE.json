@@ -1,5 +1,25 @@
 [
     {
+        "idString": "182357622",
+        "id": 182357622,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1508040843,
+        "length": 1078,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Supernatural Cat Festival? monkaS - [50% off !Sub] - !friends !discord !subgoal",
+        "videoFile": null,
+        "vodId": 182357622,
+        "chatYoutubeId": "JWvr5y8YSPY",
+        "videoYoutubeId": "JpGWusZHST4"
+    },
+    {
         "idString": "182208410",
         "id": 182208410,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Tokyo, JPN - Saturday in Shibuya w/ !Miyuki & Friends - [50% off !Sub] - !friends !discord !subgoal",
         "videoFile": null,
         "vodId": 182208410,
+        "chatYoutubeId": "oLLTjLpc_GU",
         "videoYoutubeId": "f_6Mm21Fkjs"
     },
     {
