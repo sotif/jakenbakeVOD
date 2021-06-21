@@ -1,22 +1,21 @@
 [
     {
-        "idString": "185226110",
-        "id": 185226110,
+        "idString": "185248158",
+        "id": 185248158,
         "channelId": 11249217,
         "channelName": "jakenbakeLIVE",
         "chapters": [],
         "chatEmbed": 0,
         "chatFile": null,
         "chatVideoFile": null,
-        "created": 1509021403,
-        "length": 8117,
+        "created": 1509029770,
+        "length": 7376,
         "metadataFile": null,
         "muteList": "",
         "thumbnailUrl": "",
         "title": "Tokyo, JPN - Dinner w/ !Aika from Tokyo Game Show - jnbGasm - !friends !discord !wotd",
         "videoFile": null,
-        "vodId": 185226110,
-        "chatYoutubeId": "NeBbrQGmSbE",
-        "videoYoutubeId": "3DK3sxLNZ_4"
+        "vodId": 185248158,
+        "videoYoutubeId": "aU9sG0xprQc"
     }
 ]
