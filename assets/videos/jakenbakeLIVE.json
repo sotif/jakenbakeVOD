@@ -1,5 +1,44 @@
 [
     {
+        "idString": "185311738",
+        "id": 185311738,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1509046765,
+        "length": 1466,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Late Night Walk Home - jnbGasm - !friends !discord !wotd",
+        "videoFile": null,
+        "vodId": 185311738,
+        "videoYoutubeId": "EBMyEwPyNyc"
+    },
+    {
+        "idString": "185306061",
+        "id": 185306061,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1509045340,
+        "length": 879,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Late Night Walk Home - jnbGasm - !friends !discord !wotd",
+        "videoFile": null,
+        "vodId": 185306061,
+        "chatYoutubeId": "bMa4Ms0g-rU",
+        "videoYoutubeId": "vtiIPsvHdME"
+    },
+    {
         "idString": "185278167",
         "id": 185278167,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, JPN - Karaoke With Random Girls We Met On The Street - jnbGasm - !friends !discord !wotd",
         "videoFile": null,
         "vodId": 185278167,
+        "chatYoutubeId": "Z0VoEJizLmA",
         "videoYoutubeId": "ZNB6da2wbHQ"
     },
     {
