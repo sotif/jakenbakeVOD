@@ -1,5 +1,24 @@
 [
     {
+        "idString": "186992832",
+        "id": 186992832,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1509610612,
+        "length": 16360,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - I'm Eating Taco Bell & Buying Clothes Solo - jnbM - !friends !discord !wotd",
+        "videoFile": null,
+        "vodId": 186992832,
+        "videoYoutubeId": "5wor2qTH_-s"
+    },
+    {
         "idString": "186570610",
         "id": 186570610,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - Halloween Madness Scuffed Titan Cosplay in Shibuya - jnbC - !friends !discord !wotd",
         "videoFile": null,
         "vodId": 186570610,
+        "chatYoutubeId": "-XRYe3QG_Cc",
         "videoYoutubeId": "usXP8ttC33Y"
     },
     {
