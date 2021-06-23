@@ -1,5 +1,24 @@
 [
     {
+        "idString": "187057467",
+        "id": 187057467,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1509641054,
+        "length": 2839,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - SHORT STREAM WALK HOME FROM GYM IN COLD - jnbGasm - !friends !discord !wotd",
+        "videoFile": null,
+        "vodId": 187057467,
+        "videoYoutubeId": "6r6dOzCZiGI"
+    },
+    {
         "idString": "186992832",
         "id": 186992832,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - I'm Eating Taco Bell & Buying Clothes Solo - jnbM - !friends !discord !wotd",
         "videoFile": null,
         "vodId": 186992832,
+        "chatYoutubeId": "iVOeYyJhro8",
         "videoYoutubeId": "5wor2qTH_-s"
     },
     {
