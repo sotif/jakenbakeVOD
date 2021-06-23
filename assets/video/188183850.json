@@ -1,22 +1,21 @@
 [
     {
-        "idString": "188160152",
-        "id": 188160152,
+        "idString": "188183850",
+        "id": 188183850,
         "channelId": 11249217,
         "channelName": "jakenbakeLIVE",
         "chapters": [],
         "chatEmbed": 0,
         "chatFile": null,
         "chatVideoFile": null,
-        "created": 1509988942,
-        "length": 5851,
+        "created": 1509994849,
+        "length": 3257,
         "metadataFile": null,
         "muteList": "",
         "thumbnailUrl": "",
         "title": "Tokyo, JPN - Korean BBQ w/ !Hiroko Random Late Night Stream - jnbM - !friends !discord !wotd",
         "videoFile": null,
-        "vodId": 188160152,
-        "chatYoutubeId": "XLHE-hLccNQ",
-        "videoYoutubeId": "MNg-OTwWXE8"
+        "vodId": 188183850,
+        "videoYoutubeId": "DlLRrIVcPGU"
     }
 ]
