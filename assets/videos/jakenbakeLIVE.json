@@ -1,5 +1,24 @@
 [
     {
+        "idString": "187521944",
+        "id": 187521944,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1509781336,
+        "length": 9552,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - University Festival w/ !Momi - jnbGasm - !friends !discord !wotd",
+        "videoFile": null,
+        "vodId": 187521944,
+        "videoYoutubeId": "DUm0MvaoAOI"
+    },
+    {
         "idString": "187509946",
         "id": 187509946,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - University Festival w/ Momi - jnbGasm - !friends !discord !wotd",
         "videoFile": null,
         "vodId": 187509946,
+        "chatYoutubeId": "0iCWrRiiuBQ",
         "videoYoutubeId": "u0Hj98LFiqY"
     },
     {
