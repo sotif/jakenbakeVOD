@@ -1,5 +1,44 @@
 [
     {
+        "idString": "187509946",
+        "id": 187509946,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1509774937,
+        "length": 6235,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - University Festival w/ Momi - jnbGasm - !friends !discord !wotd",
+        "videoFile": null,
+        "vodId": 187509946,
+        "videoYoutubeId": "u0Hj98LFiqY"
+    },
+    {
+        "idString": "187256820",
+        "id": 187256820,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1509701261,
+        "length": 211,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Sushi & Exploring Yokohama w/ !Anna - jnbGasm - !friends !discord !wotd",
+        "videoFile": null,
+        "vodId": 187256820,
+        "chatYoutubeId": "fiFZUT3VgO0",
+        "videoYoutubeId": "zgahq1jC7q8"
+    },
+    {
         "idString": "187241194",
         "id": 187241194,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, JPN - Sushi & Exploring Yokohama w/ !Anna - jnbGasm - !friends !discord !wotd",
         "videoFile": null,
         "vodId": 187241194,
+        "chatYoutubeId": "t8Hv8aHR9yk",
         "videoYoutubeId": "SyRB09HeiJU"
     },
     {
