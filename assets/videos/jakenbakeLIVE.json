@@ -1,5 +1,44 @@
 [
     {
+        "idString": "200905265",
+        "id": 200905265,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1510560133,
+        "length": 16872,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Monday Sushi w/ !Kana then New !Friends? - jnbHey - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 200905265,
+        "videoYoutubeId": "ELgqMRPhHuU"
+    },
+    {
+        "idString": "200633748",
+        "id": 200633748,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1510469370,
+        "length": 1446,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Nagoya to Tokyo, JPN on Shinkansen - Chill Stream - jnbHey - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 200633748,
+        "chatYoutubeId": "VD5vdCsxN2I",
+        "videoYoutubeId": "UYwmjjZExic"
+    },
+    {
         "idString": "200402768",
         "id": 200402768,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Nagoya, JPN - City Tour w/ !Natsuki and !Friends - jnbHey - !discord !wotd !subgoal",
         "videoFile": null,
         "vodId": 200402768,
+        "chatYoutubeId": "kcXkEB_mj98",
         "videoYoutubeId": "EW-5YLKSBIY"
     },
     {
