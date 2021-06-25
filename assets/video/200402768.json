@@ -1,22 +1,21 @@
 [
     {
-        "idString": "200362746",
-        "id": 200362746,
+        "idString": "200402768",
+        "id": 200402768,
         "channelId": 11249217,
         "channelName": "jakenbakeLIVE",
         "chapters": [],
         "chatEmbed": 0,
         "chatFile": null,
         "chatVideoFile": null,
-        "created": 1510392532,
-        "length": 16173,
+        "created": 1510409083,
+        "length": 948,
         "metadataFile": null,
         "muteList": "",
         "thumbnailUrl": "",
         "title": "Nagoya, JPN - City Tour w/ !Natsuki and !Friends - jnbHey - !discord !wotd !subgoal",
         "videoFile": null,
-        "vodId": 200362746,
-        "chatYoutubeId": "6xrlfbWhbRM",
-        "videoYoutubeId": "tP_7feOC1lU"
+        "vodId": 200402768,
+        "videoYoutubeId": "EW-5YLKSBIY"
     }
 ]
