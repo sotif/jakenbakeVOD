@@ -1,5 +1,44 @@
 [
     {
+        "idString": "202339089",
+        "id": 202339089,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1511016653,
+        "length": 16783,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Saturday Suit Stream in Shibuya @ YAKUZA BAR (No Reason) - jnbChamp - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 202339089,
+        "videoYoutubeId": "XqZmqPwAXHo"
+    },
+    {
+        "idString": "202294136",
+        "id": 202294136,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1510999646,
+        "length": 53,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Saturday Suit Stream in Shibuya (No Reason) - jnbChamp - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 202294136,
+        "chatYoutubeId": "MyS4ke9JcMo",
+        "videoYoutubeId": "7bot3AANdN8"
+    },
+    {
         "idString": "202055832",
         "id": 202055832,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, JPN - Friday Night Shenanigans w/ !Amy? !Will? !Rina? Idk - jnbPride - !discord !wotd !subgoal",
         "videoFile": null,
         "vodId": 202055832,
+        "chatYoutubeId": "2UQJYnPHYyA",
         "videoYoutubeId": "aFpLoJ2R7DY"
     },
     {
