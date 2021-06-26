@@ -1,5 +1,24 @@
 [
     {
+        "idString": "200953547",
+        "id": 200953547,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1510586194,
+        "length": 9934,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Karaoke With New !Friends - jnbHey - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 200953547,
+        "videoYoutubeId": "3dl0wGveYvU"
+    },
+    {
         "idString": "200932059",
         "id": 200932059,
         "channelId": 11249217,
