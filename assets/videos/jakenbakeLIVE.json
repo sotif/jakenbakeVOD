@@ -1,5 +1,25 @@
 [
     {
+        "idString": "206160961",
+        "id": 206160961,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1512243573,
+        "length": 4814,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Sloppy Saturday Night feat. Various !Friends - jnbGasm - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 206160961,
+        "chatYoutubeId": "ZbAVHgmswC4",
+        "videoYoutubeId": "1ORSuNJbpdw"
+    },
+    {
         "idString": "206091713",
         "id": 206091713,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Tokyo, JPN - Sloppy Saturday Night feat. Various !Friends - jnbGasm - !discord !wotd !subgoal",
         "videoFile": null,
         "vodId": 206091713,
+        "chatYoutubeId": "L5ZJBu5lWhI",
         "videoYoutubeId": "zWZaM-w6qcE"
     },
     {
