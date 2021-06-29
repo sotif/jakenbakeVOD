@@ -1,5 +1,44 @@
 [
     {
+        "idString": "206009783",
+        "id": 206009783,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1512193888,
+        "length": 1396,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo Comic-Con w/ !Emu - Night Drunk Stream TBA - jnbGasm - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 206009783,
+        "videoYoutubeId": "UxjW0KiKdDY"
+    },
+    {
+        "idString": "206001523",
+        "id": 206001523,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1512191329,
+        "length": 2393,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo Comic-Con w/ !Emu - Night Drunk Stream TBA - jnbGasm - !discord !wotd !subgoal",
+        "videoFile": null,
+        "vodId": 206001523,
+        "chatYoutubeId": "LkkjxcJriJE",
+        "videoYoutubeId": "pGEBUASXMIg"
+    },
+    {
         "idString": "205983561",
         "id": 205983561,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo Comic-Con w/ Special Guest - Night Drunk Stream TBA - jnbGasm - !discord !wotd !subgoal",
         "videoFile": null,
         "vodId": 205983561,
+        "chatYoutubeId": "3MUa6Eo0Yxg",
         "videoYoutubeId": "Kxcoja58Gl0"
     },
     {
