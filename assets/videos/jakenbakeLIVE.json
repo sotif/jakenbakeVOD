@@ -1,5 +1,24 @@
 [
     {
+        "idString": "208887054",
+        "id": 208887054,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1513074326,
+        "length": 14726,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Tuesday Reunion w/ !Bella !Haruna !Kanna - 20% Off Subs - Christmas !Giveaway - !discord !friends !subgoal",
+        "videoFile": null,
+        "vodId": 208887054,
+        "videoYoutubeId": "SJ2mmgklWWY"
+    },
+    {
         "idString": "208873376",
         "id": 208873376,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - Tuesday Reunion w/ !Bella !Haruna !Kanna - 20% Off Subs - Christmas !Giveaway - !discord !friends !subgoal",
         "videoFile": null,
         "vodId": 208873376,
+        "chatYoutubeId": "aLas2U437y8",
         "videoYoutubeId": "Fki6VD-PzYk"
     },
     {
