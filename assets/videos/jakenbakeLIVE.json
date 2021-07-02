@@ -1,5 +1,25 @@
 [
     {
+        "idString": "209972853",
+        "id": 209972853,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1513416417,
+        "length": 923,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Saturday Day Stream? Ok... - 20% Off Subs - Christmas !Giveaway - !discord !friends !subgoal",
+        "videoFile": null,
+        "vodId": 209972853,
+        "chatYoutubeId": "kM7H__z1jwg",
+        "videoYoutubeId": "FPsEwsMZkIE"
+    },
+    {
         "idString": "209952380",
         "id": 209952380,
         "channelId": 11249217,
@@ -16,6 +36,7 @@
         "title": "Tokyo, JPN - Saturday Day Stream? Ok... - 20% Off Subs - Christmas !Giveaway - !discord !friends !subgoal",
         "videoFile": null,
         "vodId": 209952380,
+        "chatYoutubeId": "D-UXmY0awao",
         "videoYoutubeId": "ManC9b2MHZM"
     },
     {
