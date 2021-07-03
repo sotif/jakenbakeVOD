@@ -1,5 +1,44 @@
 [
     {
+        "idString": "212592781",
+        "id": 212592781,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1514262160,
+        "length": 1449,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Back and Solo - Last Chance for Christmas !Giveaway - !discord !friends !subgoal",
+        "videoFile": null,
+        "vodId": 212592781,
+        "videoYoutubeId": "3d0_d-ZRmLQ"
+    },
+    {
+        "idString": "211620776",
+        "id": 211620776,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1513935442,
+        "length": 545,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Okinawa, JPN - Touristy Day Eating Food Meeting Locals - Christmas !Giveaway - !discord !friends !subgoal",
+        "videoFile": null,
+        "vodId": 211620776,
+        "chatYoutubeId": "BlOArKhNSR4",
+        "videoYoutubeId": "hNkL2YI9k1M"
+    },
+    {
         "idString": "211584723",
         "id": 211584723,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Okinawa, JPN - Touristy Day Eating Food Meeting Locals - Christmas !Giveaway - !discord !friends !subgoal",
         "videoFile": null,
         "vodId": 211584723,
+        "chatYoutubeId": "oEM_t2M7kF4",
         "videoYoutubeId": "9t3QobeGWSE"
     },
     {
