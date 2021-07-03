@@ -1,5 +1,24 @@
 [
     {
+        "idString": "211584723",
+        "id": 211584723,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1513918632,
+        "length": 16699,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Okinawa, JPN - Touristy Day Eating Food Meeting Locals - Christmas !Giveaway - !discord !friends !subgoal",
+        "videoFile": null,
+        "vodId": 211584723,
+        "videoYoutubeId": "9t3QobeGWSE"
+    },
+    {
         "idString": "211566697",
         "id": 211566697,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Okinawa, JPN - Touristy Day Eating Food Meeting Locals - Christmas !Giveaway - !discord !friends !subgoal",
         "videoFile": null,
         "vodId": 211566697,
+        "chatYoutubeId": "mjxl-QCJFkE",
         "videoYoutubeId": "I1ZHTdObZRk"
     },
     {
