@@ -1,5 +1,24 @@
 [
     {
+        "idString": "213464832",
+        "id": 213464832,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1514525261,
+        "length": 6101,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - NYE Weekend Day 1 - Fun w/ !Friends jnbKappa - !discord !subgoal",
+        "videoFile": null,
+        "vodId": 213464832,
+        "videoYoutubeId": "GOqFcx4VgY8"
+    },
+    {
         "idString": "213230863",
         "id": 213230863,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - Thursday Solo and #Giveaway Winners Announced - !discord !subgoal",
         "videoFile": null,
         "vodId": 213230863,
+        "chatYoutubeId": "0HnOEs-WtDI",
         "videoYoutubeId": "JhdLDPZRZdQ"
     },
     {
