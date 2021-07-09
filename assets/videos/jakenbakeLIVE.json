@@ -1,5 +1,24 @@
 [
     {
+        "idString": "214915380",
+        "id": 214915380,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1514954863,
+        "length": 16837,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Taiwan Takeover w/ !Dustin (Day 1) jnbD - Pooing at Taipei 101 - !discord !socials ",
+        "videoFile": null,
+        "vodId": 214915380,
+        "videoYoutubeId": "9vHuX8HOBOU"
+    },
+    {
         "idString": "214719786",
         "id": 214719786,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Taiwan Takeover w/ !Dustin (Day 1) jnbD - Night Walkers - !discord !socials ",
         "videoFile": null,
         "vodId": 214719786,
+        "chatYoutubeId": "XrxORCSug0I",
         "videoYoutubeId": "vrdDCSawc-8"
     },
     {
