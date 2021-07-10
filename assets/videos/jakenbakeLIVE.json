@@ -1,5 +1,24 @@
 [
     {
+        "idString": "215947362",
+        "id": 215947362,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1515242725,
+        "length": 16807,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Taiwan Takeover w/ !Dustin (Day 3) jnbD - Literally No Plan - !discord !socials",
+        "videoFile": null,
+        "vodId": 215947362,
+        "videoYoutubeId": "x05MxNusVTY"
+    },
+    {
         "idString": "215687738",
         "id": 215687738,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Taiwan Takeover w/ !Dustin (Day 3) jnbD - Night Out w/ New Local !Friends - !discord !socials",
         "videoFile": null,
         "vodId": 215687738,
+        "chatYoutubeId": "qpMhgQc8Dww",
         "videoYoutubeId": "vx46HGEuGxU"
     },
     {
