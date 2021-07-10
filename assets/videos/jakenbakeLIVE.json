@@ -1,5 +1,24 @@
 [
     {
+        "idString": "216010915",
+        "id": 216010915,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1515259582,
+        "length": 2492,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Taiwan Takeover w/ !Dustin (Day 4) jnbD - Omni Club w/ @cjayride - !discord !socials",
+        "videoFile": null,
+        "vodId": 216010915,
+        "videoYoutubeId": "x9itCKLCqgs"
+    },
+    {
         "idString": "215947362",
         "id": 215947362,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Taiwan Takeover w/ !Dustin (Day 3) jnbD - Literally No Plan - !discord !socials",
         "videoFile": null,
         "vodId": 215947362,
+        "chatYoutubeId": "8lKWpXPS0hM",
         "videoYoutubeId": "x05MxNusVTY"
     },
     {
