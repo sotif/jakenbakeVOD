@@ -1,5 +1,24 @@
 [
     {
+        "idString": "217129692",
+        "id": 217129692,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1515556840,
+        "length": 6402,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Back in the Streets of Tokyo w/ !Dustin jnbD - !discord !socials",
+        "videoFile": null,
+        "vodId": 217129692,
+        "videoYoutubeId": "MihKWB00hhc"
+    },
+    {
         "idString": "216612158",
         "id": 216612158,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Taiwan Takeover w/ !Dustin CJ & Hsu (Last Day) jnbD - Night Market - !discord !socials",
         "videoFile": null,
         "vodId": 216612158,
+        "chatYoutubeId": "8wjaGq3byPU",
         "videoYoutubeId": "uKm6kGwfl40"
     },
     {
