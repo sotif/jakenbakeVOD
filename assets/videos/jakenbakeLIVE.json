@@ -1,5 +1,24 @@
 [
     {
+        "idString": "217149461",
+        "id": 217149461,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1515563420,
+        "length": 2546,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Back in the Streets of Tokyo w/ !Dustin jnbD - !discord !socials",
+        "videoFile": null,
+        "vodId": 217149461,
+        "videoYoutubeId": "wL2AvannUgM"
+    },
+    {
         "idString": "217129692",
         "id": 217129692,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - Back in the Streets of Tokyo w/ !Dustin jnbD - !discord !socials",
         "videoFile": null,
         "vodId": 217129692,
+        "chatYoutubeId": "hoexg5bBwvY",
         "videoYoutubeId": "MihKWB00hhc"
     },
     {
