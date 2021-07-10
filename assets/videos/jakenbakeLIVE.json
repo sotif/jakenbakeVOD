@@ -1,5 +1,24 @@
 [
     {
+        "idString": "216612158",
+        "id": 216612158,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1515419427,
+        "length": 5172,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Taiwan Takeover w/ !Dustin CJ & Hsu (Last Day) jnbD - Night Market - !discord !socials",
+        "videoFile": null,
+        "vodId": 216612158,
+        "videoYoutubeId": "uKm6kGwfl40"
+    },
+    {
         "idString": "216250633",
         "id": 216250633,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Taiwan Takeover w/ !Dustin (Day 5) jnbD - Detox? - !discord !socials",
         "videoFile": null,
         "vodId": 216250633,
+        "chatYoutubeId": "XtMiGUrsaEA",
         "videoYoutubeId": "uXCDycdeHlY"
     },
     {
