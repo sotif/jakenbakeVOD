@@ -1,5 +1,44 @@
 [
     {
+        "idString": "217463923",
+        "id": 217463923,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1515657039,
+        "length": 8706,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Tokyo's Dome and Sushi w/ !Dustin jnbCmon HARDD - !discord !socials !subgoal",
+        "videoFile": null,
+        "vodId": 217463923,
+        "videoYoutubeId": "AaYSIfSBDtQ"
+    },
+    {
+        "idString": "217288772",
+        "id": 217288772,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1515612344,
+        "length": 1191,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - Night Strolling Streets of Tokyo w/ !Dustin !Miyuki !Mitchi jnbD - !discord !socials",
+        "videoFile": null,
+        "vodId": 217288772,
+        "chatYoutubeId": "0vNj0yStoTE",
+        "videoYoutubeId": "TefIKXKtIG0"
+    },
+    {
         "idString": "217220761",
         "id": 217220761,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, JPN - Night Strolling Streets of Tokyo w/ !Dustin !Miyuki !Mitchi jnbD - !discord !socials",
         "videoFile": null,
         "vodId": 217220761,
+        "chatYoutubeId": "EdbNJGVbNyA",
         "videoYoutubeId": "kwSpcd3HtFU"
     },
     {
