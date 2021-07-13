@@ -1,5 +1,24 @@
 [
     {
+        "idString": "219726393",
+        "id": 219726393,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1516251655,
+        "length": 16788,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Seoul, KR Day 1 - Meet !Do and Exploring Hongdae - RIP Liver - !discord !socials !subgoal",
+        "videoFile": null,
+        "vodId": 219726393,
+        "videoYoutubeId": "TIKBSIdFP90"
+    },
+    {
         "idString": "219129319",
         "id": 219129319,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Tokyo, JPN - Tuesday Dinner w/ !Nari - Korea On Thursday - 2,000 Subs Inc. - !discord !socials !subgoal",
         "videoFile": null,
         "vodId": 219129319,
+        "chatYoutubeId": "Q9GkJf3BTdo",
         "videoYoutubeId": "RL4A9z8rruc"
     },
     {
