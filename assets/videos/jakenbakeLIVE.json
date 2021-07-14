@@ -1,5 +1,24 @@
 [
     {
+        "idString": "220481766",
+        "id": 220481766,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1516451703,
+        "length": 15020,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Seoul, KR Day 3 - Renting a Car - Seoul Tower, Lotte World, KBBQ? - !discord !socials !subgoal",
+        "videoFile": null,
+        "vodId": 220481766,
+        "videoYoutubeId": "Mw1VtznjCQk"
+    },
+    {
         "idString": "220437675",
         "id": 220437675,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "Seoul, KR Day 3 - Renting a Car - Seoul Tower, Lotte World, KBBQ? - !discord !socials !subgoal",
         "videoFile": null,
         "vodId": 220437675,
+        "chatYoutubeId": "3bLq9IR-0o8",
         "videoYoutubeId": "2aWV-P2QzJo"
     },
     {
