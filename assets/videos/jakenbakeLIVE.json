@@ -1,5 +1,44 @@
 [
     {
+        "idString": "225979104",
+        "id": 225979104,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1517844526,
+        "length": 2362,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - I Have the Flu. Short Stream. Noodles. Uganda @ 3,000 Subs  - jnbCry- !discord !socials !subgoal",
+        "videoFile": null,
+        "vodId": 225979104,
+        "videoYoutubeId": "QJd8nXnhr3c"
+    },
+    {
+        "idString": "225975105",
+        "id": 225975105,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1517843307,
+        "length": 1153,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "Tokyo, JPN - I Have the Flu. Short Stream. Noodles. Uganda @ 3,000 Subs  - jnbCry- !discord !socials !subgoal",
+        "videoFile": null,
+        "vodId": 225975105,
+        "chatYoutubeId": "Z8Z97xS7NVs",
+        "videoYoutubeId": "17YsbqFUOhs"
+    },
+    {
         "idString": "225974826",
         "id": 225974826,
         "channelId": 11249217,
@@ -16,6 +55,7 @@
         "title": "Tokyo, JPN - I Have the Flu. Short Stream. Noodles. Uganda @ 3,000 Subs  - jnbCry- !discord !socials !subgoal",
         "videoFile": null,
         "vodId": 225974826,
+        "chatYoutubeId": "moxkt8bujow",
         "videoYoutubeId": "uckSLfqrpmQ"
     },
     {
