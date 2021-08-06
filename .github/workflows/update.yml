@@ -45,4 +45,5 @@ jobs:
       uses: actions-js/push@master
       with:
         github_token: ${{ secrets.token }}
+        branch: 'master'
 
