@@ -1,5 +1,24 @@
 [
     {
+        "idString": "245427082",
+        "id": 245427082,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1522593663,
+        "length": 8745,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "SHANGHAI, CHINA - Day 1 - Friends, Food, Sights - !Face !Discord !YouTube - Follow @jakenbakelive on Twitter/Insta",
+        "videoFile": null,
+        "vodId": 245427082,
+        "videoYoutubeId": "1Ra9iJgOvxo"
+    },
+    {
         "idString": "245286821",
         "id": 245286821,
         "channelId": 11249217,
