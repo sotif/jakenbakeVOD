@@ -1,5 +1,24 @@
 [
     {
+        "idString": "246159670",
+        "id": 246159670,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1522765521,
+        "length": 10368,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "SHANGHAI, CHINA - Day 3 - NIGHT OUT W/ WATER - !Discord !YouTube - Follow @jakenbakelive on Twitter/Insta ",
+        "videoFile": null,
+        "vodId": 246159670,
+        "videoYoutubeId": "apK3k1W7iO8"
+    },
+    {
         "idString": "246089740",
         "id": 246089740,
         "channelId": 11249217,
@@ -16,6 +35,7 @@
         "title": "SHANGHAI, CHINA - Day 3 - Reminiscing and Exploring - !Discord !YouTube - Follow @jakenbakelive on Twitter/Insta ",
         "videoFile": null,
         "vodId": 246089740,
+        "chatYoutubeId": "ZpWsb7UkBPE",
         "videoYoutubeId": "ULORWCJQTnY"
     },
     {
