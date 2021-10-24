@@ -1,5 +1,25 @@
 [
     {
+        "idString": "270752906",
+        "id": 270752906,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1528445542,
+        "length": 35517,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "SEOUL, KR - Day 2 - Hongdae Solo then Meeting Infiltration - jnbV - !Discord !YouTube - @jakenbakeLIVE on Insta/Twitter",
+        "videoFile": null,
+        "vodId": 270752906,
+        "chatYoutubeId": "9no-fsiVvOo",
+        "videoYoutubeId": "WtRM3voJZl0"
+    },
+    {
         "idString": "270462611",
         "id": 270462611,
         "channelId": 11249217,
@@ -172,25 +192,6 @@
         "videoFile": null,
         "vodId": 271133529,
         "videoYoutubeId": "1Pcn1GlBBDo"
-    },
-    {
-        "idString": "270752906",
-        "id": 270752906,
-        "channelId": 11249217,
-        "channelName": "jakenbakeLIVE",
-        "chapters": [],
-        "chatEmbed": 0,
-        "chatFile": null,
-        "chatVideoFile": null,
-        "created": 1528445542,
-        "length": 35517,
-        "metadataFile": null,
-        "muteList": "",
-        "thumbnailUrl": "",
-        "title": "SEOUL, KR - Day 2 - Hongdae Solo then Meeting Infiltration - jnbV - !Discord !YouTube - @jakenbakeLIVE on Insta/Twitter",
-        "videoFile": null,
-        "vodId": 270752906,
-        "videoYoutubeId": "WtRM3voJZl0"
     },
     {
         "idString": "268950646",
