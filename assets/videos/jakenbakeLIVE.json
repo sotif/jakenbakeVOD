@@ -1,5 +1,25 @@
 [
     {
+        "idString": "271533998",
+        "id": 271533998,
+        "channelId": 11249217,
+        "channelName": "jakenbakeLIVE",
+        "chapters": [],
+        "chatEmbed": 0,
+        "chatFile": null,
+        "chatVideoFile": null,
+        "created": 1528611137,
+        "length": 2650,
+        "metadataFile": null,
+        "muteList": "",
+        "thumbnailUrl": "",
+        "title": "SEOUL, KR - Day 4 (Part 2)- Final Stream w/ @eukkzzang in Hongdae - jnbB - !Discord !YouTube - @jakenbakeLIVE on Insta/Twitter",
+        "videoFile": null,
+        "vodId": 271533998,
+        "chatYoutubeId": "f16hneJ7JUI",
+        "videoYoutubeId": "mBJrwSg1KaQ"
+    },
+    {
         "idString": "271133529",
         "id": 271133529,
         "channelId": 11249217,
@@ -174,25 +194,6 @@
         "videoFile": null,
         "vodId": 271534259,
         "videoYoutubeId": "eBT_OaJGsaw"
-    },
-    {
-        "idString": "271533998",
-        "id": 271533998,
-        "channelId": 11249217,
-        "channelName": "jakenbakeLIVE",
-        "chapters": [],
-        "chatEmbed": 0,
-        "chatFile": null,
-        "chatVideoFile": null,
-        "created": 1528611137,
-        "length": 2650,
-        "metadataFile": null,
-        "muteList": "",
-        "thumbnailUrl": "",
-        "title": "SEOUL, KR - Day 4 (Part 2)- Final Stream w/ @eukkzzang in Hongdae - jnbB - !Discord !YouTube - @jakenbakeLIVE on Insta/Twitter",
-        "videoFile": null,
-        "vodId": 271533998,
-        "videoYoutubeId": "mBJrwSg1KaQ"
     },
     {
         "idString": "268950646",
