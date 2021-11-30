@@ -116,11 +116,18 @@ def list_my_uploaded_videos(uploads_playlist_id):
 
 
       if json_description["vod_type"] == "raw":
-        video["videoYoutubeId"] = video_id
+        if "videoYoutubeId" in video:
+          video["videoYoutubeId"] = video_id + "," + video["videoYoutubeId"]
+        else:
+          video["videoYoutubeId"] = video_id
+
       elif json_description["vod_type"] == "chat_only":
+        if "chatYoutubeId" in video:
+          video["chatYoutubeId"] = video_id + "," + video["chatYoutubeId"]
+        else:
+          video["chatYoutubeId"] = video_id
         #print(json_description["vod_type"])
         #print(json_description["id"])
-        video["chatYoutubeId"] = video_id
 
 
       videos[json_description["id"][1:]] = video
